@@ -1,0 +1,1 @@
+web: gunicorn init_query:init_query --log-file=-
